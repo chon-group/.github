@@ -1,4 +1,5 @@
-## Hi there 👋
+## Cognitive Hardware on Networks - Research Group 
+
 
 <!--
 
