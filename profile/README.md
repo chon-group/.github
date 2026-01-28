@@ -1,13 +1,21 @@
-## Cognitive Hardware on Networks - Research Group 
+# Cognitive Hardware on Networks - Research Group 
 
 We develop Distributed and Embedded AI using Multi-Agent Systems (MAS) to control hardware resources, enabling smart, interconnected devices with autonomy, proactivity, communication, mobility, and adaptability. Our Enabling Technologies and pedagogical materials support ethical practices, education, and the dissemination of Embedded MAS across multiple domains.
-<!--
 
-**Here are some ideas to get you started:**
+# Conferences to Publish
+## Conferências A*
+- International Joint Conference on Artificial Intelligence (IJCAI)
+- Measurement and Modeling of Computer Systems (SIGMETRICS) 
+- Automated Software Engineering Conference (ASE)
+- International Joint Conference on Autonomous Agents and Multiagent Systems (AAMAS)
+- National Conference of the American Association for Artificial Intelligence (AAAI)
+- International Conference on Software Engineering (ICSE)
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Conferências A
+- IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+- Annual Conference on Innovation and Technology in Computer Science Education (ITiCSE)
+- European Conference on Artificial Intelligence (ECAI)
+- International Conference on Artificial Intelligence in Education (AIED)
+- International Conference on Conceptual Modelling (ER)
+- International Conference on Advanced Information Systems Engineering (CaiSE)
+- International Conference on Model Driven Engineering Languages and Systems (MODELS)
